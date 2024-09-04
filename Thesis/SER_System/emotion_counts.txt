@@ -1,0 +1,3 @@
+Final emotion counts:
+male_happy: 1
+male_angry: 2

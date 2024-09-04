@@ -1,0 +1,8 @@
+Final emotion counts:
+surprised: 215
+angry: 47
+sad: 11
+disgust: 3
+fearful: 3
+happy: 2
+neutral: 2
